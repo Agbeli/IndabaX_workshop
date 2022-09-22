@@ -10,3 +10,9 @@ Supervised Learning Models
 - Introduction to some fundamental concept in both regression and classification algorithms. 
 
 - How to create ML pipeline for production. 
+
+- Use cases: 	
+	- House pricing 
+	- Sentiment analysis 
+	- Art piece prediction
+	- Credit scoring. 
