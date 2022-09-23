@@ -17,6 +17,8 @@ Supervised Learning Models
 	- Art piece prediction. 
 	- Credit scoring. 
 
+- The notebook shows two examples with datasets from housing pricing and cancer classification. 
+
 - In terms of advance supervised modeling:
  - Image recognition 
  - Speech recognition
