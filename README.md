@@ -14,5 +14,9 @@ Supervised Learning Models
 - Use cases: 	
 	- House pricing 
 	- Sentiment analysis 
-	- Art piece prediction
+	- Art piece prediction. 
 	- Credit scoring. 
+
+- In terms of advance supervised modeling:
+ - Image recognition 
+ - Speech recognition
